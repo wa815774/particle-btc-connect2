@@ -10,6 +10,6 @@ export class GateConnector extends InjectedConnector {
     downloadUrl: 'https://www.gate.io/web3',
   };
   constructor() {
-    super('gatewallet.bitcoin');
+    super('gatewallet.btc');
   }
 }
