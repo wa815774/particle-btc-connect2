@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "buildCommand": "lerna run build --stream",
+  "outputDirectory": "packages/sample/.next",
+  "installCommand": "yarn install",
+  "framework": "nextjs"
+} 
