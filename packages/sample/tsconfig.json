@@ -19,7 +19,7 @@
       }
     ],
     "paths": {
-      "@particle-network/btc-connectkit": ["../connectkit/src"],
+      "@particle-network/btc-connectkit": ["../connectkit"],
       "@/*": ["./src/*"]
     }
   },
